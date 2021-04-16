@@ -10,7 +10,7 @@ Code and Example Data for 1136-2021: Modernizing What-If Analysis with SAS Viya 
 - **MyJob Scoring Code.sas**: SAS model scoring code for MyJob
 - **MyJob.sas**: Raw SAS code used in MyJob
 - **Pretzel Scenario Analysis.json**: Viya JSON package containing the Viya Job MyJob, model scoring code, and Visual Analytics dashboard. All files are pre-configured.
-- **Pretzel Scenario VA 85 Dashboard.txt**: Visual Analytics dashboard XML.
+- **Pretzel Scenario VA 85 Dashboard.txt**: Visual Analytics dashboard XML
 
 ### data
 
