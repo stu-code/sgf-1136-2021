@@ -11,9 +11,9 @@ SAS scoring code, SAS job code, HTML interface code, data and a Visual Analytics
 Example SAS code and data for the second part of the paper, "Advanced Scenario Topics in Visual Analytics."
 
 ## Software Version Requirements
-Viya 3.4 or higher
+Code: Viya 3.4 or higher
 
-Visual Analytics 8.5 or higher
+Reports: Visual Analytics 8.5 or higher
 
 ## Instructions for Importing Data
 All data within the data folders are stored as .csv files. These files should be imported as promoted CAS tables in the CASUSER CASLIB. You can import these files with PROC IMPORT or directly through the Data Import tab within Visual Analytics.
