@@ -1,6 +1,6 @@
 # 1136-2021: Modernizing What-If Analysis with SAS Viya and Visual Analytics
 
-Code and Example Data for the first part of the paper, "Advanced Scenario Topics in Visual Analytics."
+Code and Example Data for the second part of the paper, "Advanced Scenario Topics in Visual Analytics."
 
 ## Description of Files
 
