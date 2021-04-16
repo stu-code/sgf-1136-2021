@@ -5,7 +5,7 @@ Code and Example Data for 1136-2021: Modernizing What-If Analysis with SAS Viya 
 ## Description of Folders
 
 ### pretzel-scenario-analysis
-SAS scoring code, SAS job code, HTML interface code, data and a Visual Analytics 8.5 dashboard for the example discussed in the first part of the paper, "Example: Forecating Jumbo Pretzels with SASHELP.SNACKS."
+SAS scoring code, SAS job code, HTML interface code, data and a Visual Analytics 8.5 dashboard for the example discussed in the first part of the paper, "Creating a Job to Run Scoring Code from an Interface."
 
 ### residual-car-analysis
 Example SAS code and data for the second part of the paper, "Advanced Scenario Topics in Visual Analytics."
